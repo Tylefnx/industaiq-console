@@ -160,7 +160,7 @@ Proje, **akıllı ve otonom bakım** özelliklerine doğru gelişmektedir:
 
 ## 📝 Lisans
 
-MIT License
+Bu proje [GNU General Public License v2.0](LICENSE) altında lisanslanmıştır.
 
 ---
 
