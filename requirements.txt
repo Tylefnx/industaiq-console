@@ -1,0 +1,22 @@
+# --- Core Framework & UI ---
+streamlit
+python-dotenv
+
+# --- Data Manipulation & Excel ---
+pandas
+openpyxl
+
+# --- AI & PDF Processing ---
+
+pypdf
+scikit-learn
+
+# --- Networking & IoT ---
+requests
+websocket-client
+
+# --- Testing (Development) ---
+pytest
+pytest-mock
+deep-translator
+openai
